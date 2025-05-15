@@ -181,7 +181,7 @@ export default function Home() {
             </div>
             <div className={styles.projectDetail}>
             <b>CrowdShip App</b>, an AI driven shipping platform that connects shippers and carriers, enabling real-time tracking and secure transactions.
-            Benifit of Encironment, carriers and shippers. 
+            Benifit of Environment, carriers and shippers. 
             </div>
             <div className={styles.projectView}>
             <a href="https://github.com/AdityaSingh772/crowd-shipping-expo"><div className={styles.viewProject}>View Project</div></a>
